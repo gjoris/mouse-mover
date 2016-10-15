@@ -32,7 +32,7 @@ public class MouseMover extends Application {
         return new Task<Integer>() {
             @Override
             protected Integer call() throws Exception {
-                for (int iterations = 0; iterations < 60 * 60 * 24 * 365 * 10; iterations++) {
+                while (true) {
                     if (isCancelled()) {
                         break;
                     }
