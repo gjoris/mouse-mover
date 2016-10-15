@@ -11,7 +11,7 @@ The Mouse Mover will live in you system tray (if available), and has an exit opt
 
 You can build the application from the source, without any problems. 
 
-Or you can download the JAR file, and run in any Java capable environment, by double-clicking it or using: 
+Or you can [download the JAR file on the releases page](https://github.com/gjoris/mouse-mover/releases), and run in any Java capable environment, by double-clicking it or using: 
 
 ```java -jar MouseMover.jar```
 
