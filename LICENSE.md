@@ -1,29 +1,4 @@
-# MouseMover
-
-## Description
-
-Automated mouse mover, designed to be cross platform.
-Because sometimes, you just need to keep things unlocked. (we've all had those clients)
-
-The Mouse Mover will live in you system tray (if available), and has an exit option from the menu. It will move the mouse to any random location on screen each 20 seconds.
-
-## Usage
-
-You can build the application from the source, without any problems. 
-
-Or you can download the JAR file, and run in any Java capable environment, by double-clicking it or using: 
-
-```java -jar MouseMover.jar```
-
-## Roadmap
-
-* Pause function
-* Preferences
-    * Make the time configurable
-    
-## License
-
-### The MIT License (MIT)
+# The MIT License (MIT)
 
 Copyright (c) 2016 DroidIT bvba
 
